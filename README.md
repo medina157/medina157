@@ -6,4 +6,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medina157&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- [https://github-readme-streak-stats.herokuapp.com/](https://github -readme-streak-stats.herokuapp.com/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=medina157&hide_border=)](https://git.io/streak-stats)
