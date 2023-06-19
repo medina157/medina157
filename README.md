@@ -13,7 +13,7 @@
 
 <br>
 
-# Tecnologias que uso no meu dia a dia
+## Tecnologias que uso no meu dia a dia
 
 <div align="center" style="display: inline_block"><br>
 
