@@ -13,8 +13,9 @@
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
 ## Tecnologias que uso no meu dia a dia
+
+<div align="center" style="display: inline_block"><br>
 
   <img alt="Medina-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="Medina-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
