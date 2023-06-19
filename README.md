@@ -26,4 +26,4 @@
 
 <br>
 
-![snake gif](https://github.com/medina157/medina157/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/medina157/medina157/blob/output/github-contribution-grid-snake.svg)
