@@ -12,3 +12,5 @@
 </div>
 
 <br>
+
+## Tecnologias que uso no meu dia a dia
