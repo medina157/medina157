@@ -1,4 +1,4 @@
-## Ola meu nome e Medina 👋
+## Ola meu nome e Wanderson 👋
 
 #### Trabalho atualmente com suporte de TI
 #### Ensino Superior (São Judas) - Análise e desenvolvimento de sistemas 
